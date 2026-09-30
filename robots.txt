@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chengfei001.github.io/nova-calc/sitemap.xml
